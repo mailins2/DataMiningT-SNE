@@ -4,4 +4,4 @@ Link báo cáo : https://huituni-my.sharepoint.com/:w:/g/personal/2001222369_hui
 
 ![image](https://github.com/user-attachments/assets/feb1df5d-66b2-4ce2-995d-723eee4e6c7f)
 
-
+Tài liệu tham khảo cho code : https://www.datacamp.com/tutorial/introduction-t-sne 
